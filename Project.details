@@ -1,0 +1,45 @@
+# 1. Project Title
+
+**Swap Two Numbers Without Using a Third Variable in Python**
+
+# 2. Aim
+
+To design a Python program that allows the user to input two numbers and swap their values without using any extra variable, displaying the result clearly.
+
+# 3. Problem Statement
+
+To create a Python program that swaps the values of two numbers using arithmetic operators and displays the result. This demonstrates the concept of operator-based manipulation in Python.
+
+# 4. Objectives
+
+* To swap two numbers without using a third variable.
+* To use arithmetic operators effectively.
+* To strengthen logical thinking in programming.
+* To understand basic input/output handling in Python.
+
+# 5. Tools Used
+
+* Python 3
+* VS Code / IDLE
+
+# 6. Description
+
+This project allows the user to enter two numbers and swap their values using arithmetic operators. The program avoids the use of a temporary variable, making the swapping process efficient and helping users understand operator-based value manipulation in Python.
+
+# 7. Algorithm
+
+1. Start the program.
+2. Read two numbers (`a` and `b`) from the user.
+3. Add both numbers and store the result in `a`.
+4. Subtract `b` from `a` and store the result in `b`.
+5. Subtract the new value of `b` from `a` and store the result in `a`.
+6. Display the swapped values.
+7. Stop the program.
+
+# 10. Result
+
+The program successfully swaps the values of two numbers without using any extra variable and displays the swapped result.
+
+# 11. Conclusion
+
+This project demonstrates a simple and effective method of swapping two numbers without using a third variable. It improves understanding of arithmetic operators, variable manipulation, and basic programming logic in Python.
